@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">A PASSIONATE FULL STACK DEVELOPER</h3>
+<h3 align="center">PASSIONATE FULL STACK DEVELOPER</h3>
 
 <h4>Frontend Technologies</h4>
 

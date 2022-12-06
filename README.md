@@ -10,7 +10,7 @@ I am a full stack developer with over 5 years of solid experience in web develop
 [<img alt="Crazycodecreator | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://t.me/toprate0425)&nbsp;&nbsp;
 
 <p align="center">
-  <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20JavaScript%20engineer;I%20have%205%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20JavaScript%20engineer;I%20have%207%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 ### Technologies

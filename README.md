@@ -2,7 +2,7 @@
 
 
 ###
-I am a full stack developer with over 5 years of solid experience in web development
+I am a full stack developer with over 7 years of solid experience in web development
 
 **Contact me&nbsp;&nbsp;&nbsp;&nbsp;**
 [<img style="margin-left: 30px;" alt="Crazycodecreator | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazy.dev.star7@gmail.com)&nbsp;&nbsp;

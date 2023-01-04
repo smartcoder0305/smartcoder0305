@@ -5,7 +5,7 @@
 I am a full stack developer with over 7 years of solid experience in web development
 
 **Contact me&nbsp;&nbsp;&nbsp;&nbsp;**
-[<img style="margin-left: 30px;" alt="Crazycodecreator | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:crazy.dev.star7@gmail.com)&nbsp;&nbsp;
+[<img style="margin-left: 30px;" alt="smartcoder0305 | Gmail" height="22px" src="./assets/Gmail.png" />](mailto:akihiko.star.7@gmail.com)&nbsp;&nbsp;
 [<img alt="Crazycodecreator | Skype" height="22px" src="./assets/Skype.png" />](https://join.skype.com/invite/rgc1mJ88Lnjj)&nbsp;&nbsp;
 [<img alt="Crazycodecreator | Telegram" height="22px" src="./assets/Telegram.jpg" />](https://t.me/toprate0425)&nbsp;&nbsp;
 

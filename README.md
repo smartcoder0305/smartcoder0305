@@ -19,6 +19,8 @@ I am a full stack developer with over 7 years of solid experience in web develop
   <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20JavaScript%20engineer;I%20have%207%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=brightgreen)
+
 ### Technologies
 
 **Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 

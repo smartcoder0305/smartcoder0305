@@ -26,9 +26,10 @@ I am a full stack developer with over 6 years of solid experience in web | mobil
   <img align='left' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/steroidtocat.png' width='200'/>
   <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" />
   As a full-stack developer with experience in leading teams, I possess a robust skill set in web, mobile and blockchain technologies with the ability to deliver on complex projects. Over the years, I have provided my expertise to businesses and individuals, resulting in significant revenue growth and customer satisfaction. With my modest and collaborative approach to problem-solving, I remain committed to achieving scalable and sustainable solutions for my clients that exceed their  expectations.
-</details>
 
 ---
+
+</details>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages and Tools</b></summary>

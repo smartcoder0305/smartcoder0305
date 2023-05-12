@@ -1,7 +1,7 @@
 <h1 align="center">Team Lead, Tech Tinker, Jack of all trades <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
 
 
-### Full Stack | Team Lead | Web2 & Web3 | 6+ years
+### <div align="center">Full Stack | Team Lead | Web2 & Web3 | 6+ Years</div>
 
 <p align="center">
   <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20/%20Typescript%20Engineer;Python%20/%20AI%20Expert;Tech%20/%20Team%20Leader;&center=true&width=800&height=45"></a>

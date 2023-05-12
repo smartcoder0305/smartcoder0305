@@ -1,11 +1,10 @@
-# <h1 align="center">Creative and Passionte Full-Stack Developer <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
+<h1 align="center">Team Lead, Tech Tinker, Jack of all trades <img src="https://user-images.githubusercontent.com/8682003/173229939-4db33dde-fc5f-4381-b5dc-ed2f5aaa844b.png" style="height: 50px;" /></h1>
 
 
-###
-I am a full stack developer with over 6 years of solid experience in web | mobile | blockchain development
+### Full Stack | Team Lead | Web2 & Web3 | 6+ years
 
 <p align="center">
-  <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20full-stack%20developer;I%20am%20a%20senior%20JavaScript%20engineer;I%20have%206%20years%20of%20solid%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20/%20Typescript%20Engineer;Python%20/%20AI%20Expert;Tech%20/%20Team%20Leader;&center=true&width=800&height=45"></a>
 </p>
 
 <p align="center">

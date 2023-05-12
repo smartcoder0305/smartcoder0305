@@ -14,6 +14,7 @@
   &nbsp;&nbsp;
   <a href="https://t.me/toprate145" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
+  <a href="https://discord.gg/jtBZuySt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=512&id=i8BEpwdORP90&format=png" alt="jtBZuySt" width="50" /></a>
   <!--<a href="https://" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>-->
   
 </p>

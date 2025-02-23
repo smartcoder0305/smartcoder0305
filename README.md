@@ -7,18 +7,6 @@
   <a href="https://github.com/smartcoder0305"><img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20/%20Typescript%20Engineer;Python%20/%20AI%20Expert;Tech%20/%20Team%20Leader;&center=true&width=800&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="mailto:stunningcoder7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/smA6m6bPSEYi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/toprate145" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/jtBZuySt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=512&id=i8BEpwdORP90&format=png" alt="jtBZuySt" width="50" /></a>
-  <!--<a href="https://" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>-->
-  
-</p>
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=brightgreen)
 
 <details open>
